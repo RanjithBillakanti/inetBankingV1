@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../SCD_UI/pom.xml" />
+        <option value="D:/Selenium/AUTOMATION CODE/ExtentReportsExample-master/pom.xml" />
+        <option value="D:/Selenium/SCD/SCD/pom.xml" />
+        <option value="D:/Selenium/AUTOMATION CODE/inetbankingV1-master/pom.xml" />
+        <option value="D:/Selenium/SCD_UI-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../ThreadLocal/pom.xml" />
+        <option value="D:/Automation/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_10" project-jdk-name="10" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
